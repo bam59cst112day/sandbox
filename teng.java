@@ -179,7 +179,7 @@ void mousePressed() {
   dx=  random( 1, 5  );                  // random speed.
   dy=  random( 1, 5  );
 }
-
+     
 void keyPressed() {
   if (key == 'q') {
     exit();                           // press 'q' key to QUIT.
